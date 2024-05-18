@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shubham-Khetan-2005/BlogSite/static/css/main.a8400fcf.css",
+    "main.js": "/Shubham-Khetan-2005/BlogSite/static/js/main.840fe263.js",
+    "index.html": "/Shubham-Khetan-2005/BlogSite/index.html",
+    "main.a8400fcf.css.map": "/Shubham-Khetan-2005/BlogSite/static/css/main.a8400fcf.css.map",
+    "main.840fe263.js.map": "/Shubham-Khetan-2005/BlogSite/static/js/main.840fe263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8400fcf.css",
+    "static/js/main.840fe263.js"
+  ]
+}
